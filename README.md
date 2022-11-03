@@ -13,7 +13,7 @@
  ## Choosing Chart Type
  The chart or graph we choose must effectively convey the message we want to convey to our audience. Identifying the message we want to convey is the first step in selecting a chart.
  
- * 
- *
- *
- *
+ * ![Global Numbers](https://raw.githubusercontent.com/praveenchoragudi/DataVisualizations/main/visuals/Global_Numbers.png)
+ * ![Deaths by Continent](https://raw.githubusercontent.com/praveenchoragudi/DataVisualizations/main/visuals/Deaths_by_Continent.png)
+ * ![Population infected across the world](https://raw.githubusercontent.com/praveenchoragudi/DataVisualizations/main/visuals/infected_population.png)
+ * ![Vaccine Rollout](https://raw.githubusercontent.com/praveenchoragudi/DataVisualizations/main/visuals/Vaccine_Rollout.png)
