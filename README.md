@@ -5,4 +5,4 @@
  We have done some exploratory data analysis in our [project](https://github.com/praveenchoragudi/Data_Exploration_SQL). Now, we will be visualizing the results obtained from our data exploration with COVID 19 data. In this process we will use Tableau to visualize in bar charts, tables, maps, line charts depending on the data results we achieved earlier in the project.
  
  ## Getting our data
- There is a sql file created from the data exploration exclusively including the queries that we want to visualize. The tables generated on executing this .sql file are saved in the [tables](https://github.com/praveenchoragudi/DataVisualizations/tree/main/tables) folder.
+ There is a sql file created from the data exploration exclusively including the queries that we want to visualize. The tables generated on executing this [.sql](https://github.com/praveenchoragudi/DataVisualizations/blob/main/Tableau_SQL_Queries.sql) file are saved in the [tables](https://github.com/praveenchoragudi/DataVisualizations/tree/main/tables) folder.
