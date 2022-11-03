@@ -6,3 +6,14 @@
  
  ## Getting our data
  There is a sql file created from the data exploration exclusively including the queries that we want to visualize. The tables generated on executing this [.sql](https://github.com/praveenchoragudi/DataVisualizations/blob/main/Tableau_SQL_Queries.sql) file are saved in the [tables](https://github.com/praveenchoragudi/DataVisualizations/tree/main/tables) folder.
+ 
+ ## Cleaning Tabular Data
+ In order to clean up the data, we remove extraneous variables, delete duplicate rows and observations, deal with outliers and erroneous data, etc. Managing missing values Correcting typographical mistakes as well as standardising or categorising values. For instance, the tables are having null values. Prior to uploading the data into Tableau, we would like to clean the data like replacing NULL values with 0 and re-checking the data types of all columns in each of the tables.
+ 
+ ## Choosing Chart Type
+ The chart or graph we choose must effectively convey the message we want to convey to our audience. Identifying the message we want to convey is the first step in selecting a chart.
+ 
+ * 
+ *
+ *
+ *
