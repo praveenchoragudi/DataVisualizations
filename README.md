@@ -31,7 +31,7 @@
 
 ## Dashboard Creation
  
- Using Tableau, one can quickly create dynamic, real-time visuals by building dashboards. We can integrate data sources, apply filters, and drill down into certain information with only a few clicks. View the [COVID19_dashboard](https://public.tableau.com/views/COVID19_VIZ/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) I built using the tabular data we covered earlier.
+ Using Tableau, one can quickly create dynamic, real-time visuals by building dashboards. We can integrate data sources, apply filters, and drill down into certain information with only a few clicks. View the dashboard [COVID19_VIZ](https://public.tableau.com/views/COVID19_VIZ/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), built using the tabular data we covered earlier.
  
  THANK YOU
  
